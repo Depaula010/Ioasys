@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestWithASP-NET5</name>
+    </assembly>
+    <members>
+        <member name="M:RestWithASP_NET5.Controllers.BookController.Post(RestWithASP_NET5.Model.Filme)">
+            <summary>
+            Rota para criar filmes
+            </summary>
+            <param name="book">Filme</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
